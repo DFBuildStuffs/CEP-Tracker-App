@@ -1,0 +1,6 @@
+{
+  "name": "CEP Tracker",
+  "description": "Cross-platform mobile-first Competency Enhancement Program tracker with smooth animations, interactive data visualizations, real-time push milestone notifications, study sessions, and exam analytics.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
